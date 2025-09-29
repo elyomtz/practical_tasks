@@ -8,3 +8,5 @@ Ich weiß dass irgendwann
 Irgendwer mich liebt
 
 Lines added for first commit on feature branch
+
+Lines added for second commit on feature branch
