@@ -6,3 +6,5 @@ Ich weiß nicht wie du heißt
 Doch ich weiß dass es dich gibt
 Ich weiß dass irgendwann
 Irgendwer mich liebt
+
+Lines added for first commit on feature branch
